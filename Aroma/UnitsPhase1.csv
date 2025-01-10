@@ -1,0 +1,95 @@
+S.No.,State,Quantity,Name of Nodal Farmer,Cluster,Village/Block,Location/ District,Latitude,Longitude,Unit Type
+1.      ,Bundelkhand (UP),3,,,,Hamirpur (Rath),,,1000 kg MS FDU
+,,,,,,Banda,,,500 kg MS FDU
+,,,,,,Banda,,,500 kg MS FDU
+2.      ,Orissa,2,,,,Angul (Chendipada),,,500 kg MS FDU
+,,,,,,Puranakote (Tikarapada),,,500 kg MS FDU
+3.      ,Rajasthan ,1,,,,Kota (Anta),,,500 kg MS FDU
+4.      ,U.P. West,2,,,,Hathras,,,500 kg MS FDU
+,,,,,,Shahajanpur / Lucknow,,,500 kg MS FDU
+5.      ,Chhattisgarh ,1,,,,Kondagaon ,,,500 kg MS FDU
+6.      ,Gujarat,3,,,,"Gunthala Mundra, Kutch",,,1000 kg SS FDU
+,,,,,,Rapar ,,,500 kg SS FDU
+,,,,,,"Sarol, Anand",,,500 kg MS FDU
+7.      ,U.P.,1,,,,Pipraulla Sudha,,,500 kg MS FDU
+8.      ,Bihar,1,,,,Madheupura ,,,500 kg MS FDU
+9.      ,Tamil Nadu,2,,,,Ooty,,,500 kg SS Cohobation
+,,,,,,Cuddalore,,,500 kg MS FDU
+10.    ,Karnataka,1,,,,Sirsi ,,,500 kg SS FDU
+11.    ,North East,2,,,,"Raboi, Meghalya",,,500 kg MS FDU
+,,,,,,"Tejpur, Assam",,,500 kg MS FDU
+12.    ,Maharashtra / Vidharbha,3,,,,"Belora, Amravati",,,500 kg MS FDU
+,,,,,,"Telhara, Akola",,,500 kg MS FDU
+,,,,,,Bhandara,,,500 kg MS FDU
+13.    ,Uttarakhand,2,,,,Pantnagar Center,,,500 kg SS Cohobation
+,,,,,,,,,
+14.    ,Karnataka:,2,,,,Jainapur,,,500 kg MS FDU
+,,,,,,Koppal,,,500 kg MS FDU
+15.    ,Tamil Nadu ,5,,,,Coimbatore,,,500 kg MS FDU
+,,,,,,Naggapatinum,,,500 kg MS FDU
+,,,,,,Sivagangai,,,250 kg MS FDU
+,,,,,,Annamalai Tiger Reserve,,,250 kg SS FDU
+,,,,,,Annamalai Tiger Reserve,,,250 kg SS FDU
+16.    ,Telangana/ Andhra Pradesh,3,,,,CRC Hyderabad ,,,500 kg SS Mobile
+,,,,,,Kurnool (Shifted to CRC),,,500 kg MS FDU
+,,,,,,"Ivampally, East Godavari",,,500 kg MS FDU
+17.    ,U.P. West ,2,,,,"Sirsol, Kasganj",,,500 kg SS Cohobation 
+18.    ,,,,,,"Raj Tikoli, Badaun",,,500 kg SS Cohobation
+19.    ,North East ,2,,,,"Balemu, West Kameng, Arunachal Pradesh.",,,500 kg MS FDU
+,,,,,,"Bodoland, Tamulpur Baksa (Assam)",,,500 kg MS FDU
+20.    ,Bundelkhand (UP),5,,,,"Baheri,  Naraini, Banda.",,,500 kg MS FDU
+,,,,,,"Bharua, Sumerpur, Hamirpur",,,500 kg MS FDU
+,,,,,,"Rihunta, Gohand, Sarila, Hamirpur",,,1000 kg MS FDU
+,,,,,,"Sarsao, Rath",,,500 kg MS FDU
+,,,,,,"Maudaha, Hamirpur",,,500 kg MS FDU
+21.    ,U.P. East,4,,,,"Vill.Rudauli, Block Chatra",,,500 kg MS FDU
+,,,,,,Distt. Sonbhadra,,,500 kg MS FDU
+,,,,,,"Mariham, Mirzapur,",,,500 kg MS FDU
+,,,,,,"Bhiv Ghat, Harisar, Distt. Sant Kabir Nagar",,,500 kg MS FDU
+22.    ,Bundelkhand (MP),2,,,,"Khujwa Suwarha, Maunganj, Distt. Rewa",,,500 kg MS FDU
+,,,,,,"Mariham, Shajdol",,,500 kg MS FDU
+23.    ,Bihar,1,,,,Madhepura,,,500 kg MS FDU
+24.    ,Jharkhand,1,,,,Khunti,,,500 kg MS FDU
+25.    ,Maharashtra / Vidharbha ,3,,,,Yavatmal,,,500 kg MS FDU
+,,,,,,Gondia,,,500 kg MS FDU
+,,,,,,Nandurbar,,,500 kg MS FDU
+26.    ,Chattisgarh,1,,,,Bastar,,,500 kg MS FDU
+27.    ,Rajasthan,1,,,,Hanumangarh,,,500 kg MS FDU
+28.    ,Gujarat,1,,,,Kutch,,,500 kg MS FDU
+29.    ,Orissa,4,,,,Dhenkanal,,,500 kg MS FDU
+,,,,,,"Raigarh, Nabarangpur",,,500 kg MS FDU
+,,,,,,Boudh,,,500 kg MS FDU
+,,,,,,"Tangi, Nayagarh",,,500 kg MS FDU
+30.    ,Uttarakhand,3,,,,Sitarganj,,,500 kg MS FDU
+,,,,,,Kotdwar,,,500 kg MS FDU
+,,,,,,Haridwar,,,500 kg MS FDU
+,,,,,,Dudhwa,,,500 kg MS FDU
+31.    ,Punjab,1,,,,"Amritsar, Punjab",,,500 kg MS FDU
+32.    ,Haryana,1,,,,"Palwal, Haryana ",,,500 kg MS FDU
+33.    ,Uttarakhand,1,,,,"Mussoorie, Uttarakhand",,,250 kg SS Cohobation
+34.    ,Uttar Pradesh (W),3,,,,"Ahrauli, Badaun, UP",,,500 kg SS Dual
+,,,,,,"Basla, Sambhal, UP",,,500 kg SS Dual
+,,,,,,"Lucknow, UP  ",,,500 kg SS Mobile
+35.    ,Bundelkhand (UP),3,,,,"Vill Itaura, Orai, Jalaun",,,500 kg MS FDU
+,,,,,,"Gohani, Rath,  Hamirpur",,,500 kg MS FDU
+,,,,,,"Gadrria, Jaspura, Banda",,,500 kg MS FDU
+36.    ,Bundelkhand (MP),2,,,,"Saunara, Datia, MP",,,500 kg MS FDU
+,,,,,,"Mahrauni, Lalitpur, UP",,,500 kg MS FDU
+37.    ,Gujarat,2,,,,"Kutch, Gujarat",,,500 kg SS FDU
+,,,,,,"Saurashtra, Gujarat ",,,500 kg MS FDU
+38.    ,Rajasthan,1,,,,"Udaipur, Raj",,,500 kg MS FDU
+39.    ,Chhattisgarh,1,,,,"Dhamtari, CG",,,500 kg MS FDU
+40.    ,Odisha,3,,,,"Dist Devgarh, Odisha",,,500 kg MS FDU
+,,,,,,"Puri, Odisha",,,500 kg SS FDU
+,,,,,,"Ganjam, Odisha",,,500 kg SS FDU
+41.    ,Maharashtra / Vidhrabha,3,,,,"Palghar, Maharashtra",,,500 kg MS FDU
+,,,,,,"Satara, Maharashtra",,,500 kg MS FDU
+,,,,,,"Urikanchan, Pune",,,500 kg MS FDU
+42.    ,Karnataka,2,,,,"Chikmagalur, Karnataka",,,500 kg SS FDU
+,,,,,,"Haveri, Karnataka",,,500 kg MS FDU
+,Tamil Nadu,3,,,,"Cuddalore, Tamil Nadu ",,,1000 kg SS FDU
+,,,,,,"Narayanakuppam, Thiruvannamalai",,,1000 kg MS FDU
+,,,,,,"Nammakal/Erode, Tamil Nadu",,,500 kg MS FDU
+43.    ,North east Region,2,,,,"Majauli, Assam",,,500 kg MS FDU
+,,,,,,"Boha, Arunachal Pradesh",,,250 kg SS Cohobation
+,Total,93,,,,,,,
