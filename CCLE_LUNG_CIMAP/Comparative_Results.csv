@@ -1,0 +1,6 @@
+,Accuracy,ROC AUC
+Random Forest,1.0,1.0
+Logistic Regression,0.9615384615384616,0.9927248677248678
+K-Nearest Neighbors,0.7435897435897436,0.830026455026455
+Decision Tree,1.0,1.0
+Gradient Boosting,1.0,1.0
