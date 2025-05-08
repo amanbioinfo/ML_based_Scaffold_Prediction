@@ -1,0 +1,4 @@
+id,source,type,name,species,aa_sequence,sequence_length,chromosome,strand,gstart,gstop,function,peptide_function,host_ncrna_symbol_id,transcript_id,host_ncrna_sequence,host_ncrna_length,gene_symbol,geneid,geneid_ncbi_field,experimental_methods,pmid_doi,year,celltype,splice_junction_seq_2,potential_coding_position
+95,Literature mining,miRNA,miPEP166 S78-2,Dimocarpus longan,MLSGSRTLLLIIFCRSNLSIQINSGSIIC,29,,,,,,NA,pri-miR166 S78-2,,,,,,,Computational Prediction,31869733,2020,,,
+98,Literature mining,miRNA,miPEP166 S338,Dimocarpus longan,MTNSISNSPLLVPSFYIYLSFFFFFFSISLLWGMLSGSRPFAYKLSSWHHLLE,53,,,,,,NA,pri-miR166 S338,,,,,,,Computational Prediction,31869733,2020,,,
+102,Literature mining,miRNA,miPEP166 S53,Dimocarpus longan,MLCFVDALFLIST,13,,,,,,NA,pri-miR166 S53,,,,,,,Computational Prediction,31869733,2020,,,

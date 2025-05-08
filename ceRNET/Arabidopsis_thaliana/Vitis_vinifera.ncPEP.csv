@@ -1,0 +1,11 @@
+id,source,type,name,species,aa_sequence,sequence_length,chromosome,strand,gstart,gstop,function,peptide_function,host_ncrna_symbol_id,transcript_id,host_ncrna_sequence,host_ncrna_length,gene_symbol,geneid,geneid_ncbi_field,experimental_methods,pmid_doi,year,celltype,splice_junction_seq_2,potential_coding_position
+4,Literature mining,miRNA,miPEP171d1,Vitis vinifera,MGYGTTP,7,10,+,,,development,Increase adventitious root formation,pri-miR171d,MI0006539,"TAGATACACG AGATATTGAT ACGGTTCAAT TAGAAAGCTG TGTTCTAAGT TAAGAACTCT
+GTTGTTTGAT TGAGCCGTGC CAATATCACG TCCTACTTCT",100,MIR171D,,100272021,qRT-PCR,32241877,2020,,,
+6,Literature mining,miRNA,miPEP164c(miPEP-MYBPA1),Vitis vinifera,MEKQGTCITSSCTTNQ,16,8,,,,,Inhibiting PA biosynthetic pathway while  stimulating anthocyanin synthesis,,MI0006505,"AGCTCCTTGT TGGAGAAGCA GGGCACGTGC AGATTTGCCT CACTTTTCCC CCTTTTTTCT
+TCTTTACTCC CACCACCGCC CACAGGCTTG CACGTGCTCC CCTTCTCCAA CATGGGTTCC
+T",121,MIR164A,,100272134,qRT-PCR,34675946,2021,,,
+85,Literature mining,miRNA,miPEP3635b,Vitis vinifera,MFLYFIFRQLV,11,,,,,,Cold tolerance,pri-miR3635b,,"AATAACAAGA AGGCATGTGT GGGGCATAAT AGAGAATGCA AAGAAAGGGT TGCTATTGAG
+TGTGATATTG GGACAATGAC ATACCATTTT TTTGCATTGT CTATTATGTC CCACACATGC
+CTCCTTGTTA TT",132,MIR3635,,104796661,qRT-PCR,36075277,2022,,,
+86,Literature mining,miRNA,miPEP172b,Vitis vinifera,MTSSSLSRQTKPYTSH,16,,,,,,Cold tolerance,pri-miR72b,,"TATTGCCGAT GCAGCATCAT CAAGATTCTC AACCCCAAAA CTTGAGGCAG CGAAGATGGC
+ATCGCTGCCG CGCCGGGCTT TCGCATGTGA ATCTTGATGA TGCTACACCT GCAAACAA",118,MIR172B,,100272089,qRT-PCR,36075277,2022,,,
